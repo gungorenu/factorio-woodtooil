@@ -1,11 +1,11 @@
 {
   "name": "WoodToOil",
-  "version": "1.0.1",
-  "factorio_version": "0.17",
+  "version": "1.0.2",
+  "factorio_version": "0.18",
   "title": "WoodToOil",
   "author": "UgurG",
   "contact": "",
   "homepage": "",
   "description": "Wood can be produced and it can be used to create crude oil (in low amounts).",
-  "dependencies": ["base >= 0.17.0"]
+  "dependencies": ["base >= 0.18.0"]
 }
