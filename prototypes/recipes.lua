@@ -32,7 +32,7 @@ data:extend(
     type = "recipe",
     name = "woodtooil-greenhouse-farming",
     icon = "__base__/graphics/icons/wood.png",
-    icon_size = 32,
+    icon_size = 64, icon_mipmaps = 4,
     subgroup = "woodtooil-greenhouse-items",
     order = "a",
     category = "woodtooil-greenhouse",
